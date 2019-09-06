@@ -6,7 +6,7 @@
   display: none;
 }
  
-body div#wall div#tag-3 div.slick div.wicked {
+body div#wall #tag-3.slick {
   display: none;
 }
  
